@@ -1,0 +1,19 @@
+body  {
+  line-height: normal;
+  background-color: #d9bd93;
+  font-family: arial;
+}
+
+h1 {
+  letter-spacing: 5px;
+}
+
+h2{
+  letter-spacing: 5px;
+}
+
+p{
+  color: black;
+  background-color: white;
+  font-size: 14px;
+}
